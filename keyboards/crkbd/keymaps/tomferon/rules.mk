@@ -1,0 +1,11 @@
+MOUSEKEY_ENABLE     = no     # Mouse keys
+VIA_ENABLE          = yes         # Enable VIA
+
+BACKLIGHT_ENABLE = no
+RGBLIGHT_ENABLE = no
+RGB_MATRIX_ENABLE = no
+LED_MATRIX_ENABLE = no
+
+CAPS_WORD_ENABLE = yes
+COMMAND_ENABLE = no
+LEADER_ENABLE = yes
